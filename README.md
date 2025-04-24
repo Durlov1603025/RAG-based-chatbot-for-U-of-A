@@ -1,4 +1,4 @@
-Project Title: U of A Graduate Studies Application Assistant
+**Project Title: University of Alberta Graduate Studies Application Assistant**
 
 The project is divided into 5 parts:
 1. Dataset Extraction
